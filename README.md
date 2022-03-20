@@ -1,0 +1,2 @@
+# Aviro_health_challenge
+We must find innovative ways that are easy and safe to get testing and treatment done and prevent new infections, or we will see another generation with millions forced to live with HIV. In this project, we are going to have a machine learning model to determine the likelihood a test been positive or Negative and identifying the factors(features) that makes a test to be positive or negative.
