@@ -5,6 +5,7 @@ We must find innovative ways that are easy and safe to get testing and treatment
 
 ## Solution
 
+**Title**:
 **Determine the likelihood of a diagonistics test been positive or negative using machine learning and interpretable machine learning**
 
 **Steps in solving the problem**
@@ -21,3 +22,7 @@ We must find innovative ways that are easy and safe to get testing and treatment
 10. Interpreting machine learning model using Shap.
 
 ### Findings
+
+Uni-Variate Analysis
+
+![image](https://user-images.githubusercontent.com/35523815/162517195-dbc11aaf-6561-41aa-89dd-65a43b066418.png)
